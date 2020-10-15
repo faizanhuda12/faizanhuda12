@@ -1,6 +1,5 @@
 ### Hi there, I'm Faizan Huda. [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://faizanhuda.herokuapp.com/)
 
 
 ## I'm a Student, Developer, and Teacher!!
