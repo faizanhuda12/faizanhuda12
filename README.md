@@ -1,4 +1,4 @@
-### Hi there, I'm Faizan Huda. [website] 👋
+### Hi there, I'm Faizan Huda. 👋
 
 
 
