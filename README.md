@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Faizan Huda**
 ### Senior AI/ML & Cloud Engineer | IBM Consultant
 
-I build scalable AI systems, cloud-native applications, and production-grade machine learning pipelines. My work blends distributed computing, applied AI, and cloud architecture—helping teams ship reliable, high-impact solutions.
+I build scalable AI systems, cloud-native applications, and production-grade machine learning pipelines. My work blends distributed computing, applied AI, and cloud architecture, helping teams ship reliable, high-impact solutions.
 
 I’m currently focused on **LLM engineering**, **AI agents**, and **serverless ML pipelines** that run at scale.
 
